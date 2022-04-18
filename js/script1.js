@@ -1,3 +1,7 @@
+/*
+	Coded By Joseph Hughes | https//www.linkedin.com/in/joseph-hughes-34955a141
+*/
+
 searchForm = document.querySelector('.search-form');
 
 document.querySelector('#search-btn').onclick = () =>{
